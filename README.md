@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# CV jekyll theme
 
-You can use the [editor on GitHub](https://github.com/saiyangit/saiyangit.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Free theme for the creation of your CV. View demo [here](https://jekyll-cv.stavrospanakakis.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Features
+- Lightweight
+- Free & Open Source
+- Mobile Responsive
+- Dark Mode Support
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Preview
+![Preview](./preview.png)
 
-```markdown
-Syntax highlighted code block
+## Installation
+- [Fork](https://github.com/stavrospanakakis/jekyll-cv/fork) the repository
+- Create a ```gh-pages``` branch
+- Go to Settings and select ```gh-pages``` as Github Pages source
+- Replace dummy data at ```_data/data.yml``` and ```_config.yml```
+- You're done!
 
-# Header 1
-## Header 2
-### Header 3
+Go to https://username.github.io/jekyll-cv/
 
-- Bulleted
-- List
+## Contributing 
+- Feel free to open issues and create pull requests for new features or skins
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saiyangit/saiyangit.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## License
+- [MIT](./LICENSE)
